@@ -15,37 +15,6 @@ toc: true
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Amitabha Counting</title>
-    <script>
-        let total_count = 0;
-        function addCount() {
-            let count = document.getElementById("countInput").value;
-            if (count.trim() === "" || isNaN(count)) {
-                alert("Please enter a valid number.");
-                return;
-            }
-            total_count += parseInt(count);
-            document.getElementById("totalCount").innerText = "Total count: " + total_count;
-            document.getElementById("countInput").value = "";
-        }
-    </script>
-</head>
-<body>
-    <h1>Amitabha Counting</h1>
-    <input type="text" id="countInput" placeholder="Enter the number of times you chanted">
-    <button onclick="addCount()">Add Count</button>
-    <p id="totalCount">Total count: 0</p>
-</body>
-</html>
-
-
-
-
-
-
 # listening
 ## 《查莉生长日记》
 
