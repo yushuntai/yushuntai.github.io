@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " 免疫荧光"
+title:  " 免疫荧光与NIS-Viewer 软件处理图片"
 date:   2023-12-16
 tags: 实验方法与科研小技巧
 categories: Front-end JavaScript
