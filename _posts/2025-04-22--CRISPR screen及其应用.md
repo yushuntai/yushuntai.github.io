@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " CRISPR screen及其应用"
+title:  " 各种科研概念备忘"
 tags: 实验方法与科研小技巧
 date:   2025-04-22
 categories: Front-end JavaScript
@@ -15,7 +15,8 @@ toc: true
 {:toc}
 
 
-
+# CRISPR screen及其应用
+## CRISPR screen及其应用
 首先通过高通量合成技术，设计靶向全基因组的gRNA，并将它们连接到慢病毒载体，进行病毒包装，然后以低MOI感染靶细胞，确保每个细胞仅接受一个gRNA，实现每个细胞的单基因编辑。通过抗性筛选淘汰未感染的细胞。然后通过刺激（药物、传代等），某些基因被编辑的细胞可以存活并快速增殖，某些则死亡或生长停滞。最后通过高通量测序检测存活细胞中的sgRNA分布，
 
 NGS测序分析不同sgRNA的丰度变化确定上下调的基因，揭示这些基因在生物学中的重要作用。<br>
