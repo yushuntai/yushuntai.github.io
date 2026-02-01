@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  " English Learning"
-tags: English-learning
+title:  " 英语口语学习"
+tags: 英语口语学习English-learning
 date:   2024-12-18
 categories: Front-end JavaScript
 excerpt: English
@@ -115,11 +115,6 @@ new leaf 新篇章
 
 
 # speaking
-
-# reading 
-
-# writing
-
 
 
 
