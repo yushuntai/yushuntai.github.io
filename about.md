@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人介绍
+title: 个人简介
 ---
 姓名：余顺太<br>
 性别：男<br>
