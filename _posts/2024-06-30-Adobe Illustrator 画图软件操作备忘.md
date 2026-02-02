@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Adobe Illustrator 画图软件操作备忘"
+title:  " AI画图软件操作备忘"
 date:   2024-06-30
 tags: 实验方法与科研小技巧
 categories: Front-end JavaScript
