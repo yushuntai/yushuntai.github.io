@@ -51,8 +51,8 @@ F/Tab 键快速全屏 <br>
 
 
 # 如何画一个带箭头的半圆
+<img src="/assets/images/Figure19.png" width="600">
 
-![image](https://github.com/user-attachments/assets/d2b6fde0-490f-452b-8896-f9f3073a6c55)
 
 # 如何将多串字符同时旋转
 
@@ -60,7 +60,8 @@ F/Tab 键快速全屏 <br>
 
 # 如何写基因的斜体
 将字体改为Arial——Italic  
-![image](https://github.com/user-attachments/assets/cfbf8c97-97dd-45df-9872-6a02f0e6df57)
+<img src="/assets/images/Figure20.png" width="200">
+
 
 # 通过吸管改变描边颜色
 ![image](https://github.com/user-attachments/assets/880bf4f3-2b6c-4710-b616-fc7ab4a7b328)
