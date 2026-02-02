@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " AI绘图备忘录"
+title:  " Adobe Illustrator 画图软件操作备忘"
 date:   2024-06-30
 tags: 实验方法与科研小技巧
 categories: Front-end JavaScript
@@ -28,7 +28,9 @@ F/Tab 键快速全屏 <br>
 
 画两个圆，然后设置透明度
 
-![image](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/ce1b9313-8947-4439-a7f2-a470f976ce8f)
+<img src="/assets/images/Figure14.png" width="600">
+
+
 
 此时交集区域为两种配色的叠加，通过透明度调整得不同叠加程度的韦恩图
 
@@ -36,7 +38,7 @@ F/Tab 键快速全屏 <br>
 
 画两个圆，选中两个圆，点击形状生成器，点击填色，选中一种颜色，点击交集区域，此时交集区域被自由赋色
 
-![image](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/5dd22b58-829e-46da-92fd-b9b64ed9df47)
+<img src="/assets/images/Figure15.png" width="600">
 
 # 在AI中使用上下左右键无法移动形状或文字怎么办
 
