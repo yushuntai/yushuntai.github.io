@@ -111,7 +111,7 @@ F/Tab 键快速全屏
 ## 如何画弹簧
 
 先画一根直线，然后效果一一扭曲和变换-一波纹效果(Z)
-
+<img src="/assets/images/Figure22.png" width="600">
 
 ![image](https://github.com/user-attachments/assets/833ef197-5340-446e-b9a0-c40fbf9962e9)
 
