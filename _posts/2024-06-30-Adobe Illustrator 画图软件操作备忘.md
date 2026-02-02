@@ -47,8 +47,8 @@ F/Tab 键快速全屏 <br>
 <img src="/assets/images/Figure16.png" width="600">
 
 # 在AI中画箭头
+<img src="/assets/images/Figure17.png" width="600">
 
-![image](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/11024793-29c5-4afb-9dfb-b5a6a2afd129)
 
 # 如何画一个带箭头的半圆
 
@@ -56,7 +56,7 @@ F/Tab 键快速全屏 <br>
 
 # 如何将多串字符同时旋转
 
-![image](https://github.com/user-attachments/assets/f5962524-2f32-49ac-b6cb-fd77dff082e4)
+<img src="/assets/images/Figure18.png" width="600">
 
 # 如何写基因的斜体
 将字体改为Arial——Italic  
