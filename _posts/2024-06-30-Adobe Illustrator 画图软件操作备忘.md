@@ -100,9 +100,6 @@ F/Tab 键快速全屏
 
 <img src="/assets/images/Figure23.png" width="600">
 
-![image](https://github.com/user-attachments/assets/7fdf527e-ca6a-4796-96e0-99abc0d81b9b)
-
-
 （1）点到空白处——文档设置——编辑画板——将画板范围缩小
 （2）文件——导出——导出为——**使用画板（U）** 勾上即可
 
