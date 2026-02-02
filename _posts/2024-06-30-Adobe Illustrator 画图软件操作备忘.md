@@ -108,14 +108,6 @@ F/Tab 键快速全屏
 文件——导出——另存为—— **增强型Windows元文件（*.emf）**——然后再把这个文件打开之后另存为TIF即可
 
 
-## 如何画弹簧
-
-先画一根直线，然后效果一一扭曲和变换-一波纹效果(Z)
-<img src="/assets/images/Figure22.png" width="600">
-
-![image](https://github.com/user-attachments/assets/833ef197-5340-446e-b9a0-c40fbf9962e9)
-
-
 ## 如何输入蛋白结构分辨率——Å这个字符
 
 按住 Alt 键，在小键盘上输入数字 0197即可，如果显示的是一个小方框，级的调整字体格式为Arial或其他字体格式即可。
@@ -124,6 +116,5 @@ F/Tab 键快速全屏
 
 多张图片完整对齐——画上一个方框（随便怎样调整角度）——将该整体复制成多份——在每一份上分别删除其他图层——进行裁剪（如果想裁剪的位于第一图层，下面还压着两个图层，则将想裁剪的那个图层—“右键”——“排列”—“置于底层”——然后将上面的图层依次删除）
 
-<img width="951" height="415" alt="image" src="https://github.com/user-attachments/assets/04b32acd-5262-4cba-928b-87560b5a8eb1" />
-
+<img src="/assets/images/Figure24.png" width="600">
 
