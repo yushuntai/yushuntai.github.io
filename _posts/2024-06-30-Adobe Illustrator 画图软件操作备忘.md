@@ -90,15 +90,16 @@ F/Tab 键快速全屏
 
 # 如何画弹簧
 先画一根直线，然后效果一一扭曲和变换-一波纹效果(Z)
-
-![image](https://github.com/user-attachments/assets/833ef197-5340-446e-b9a0-c40fbf9962e9)
-
+<img src="/assets/images/Figure22.png" width="600">
 
 # 如何输入蛋白结构分辨率——Å这个字符
 
 按住 Alt 键，在小键盘上输入数字 0197即可，如果显示的是一个小方框，调整字体格式为Arial或其他字体格式即可。
 
 # 输出的图片总是上面有一大片空白
+
+<img src="/assets/images/Figure23.png" width="600">
+
 ![image](https://github.com/user-attachments/assets/7fdf527e-ca6a-4796-96e0-99abc0d81b9b)
 
 
