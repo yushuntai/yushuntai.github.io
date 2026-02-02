@@ -44,7 +44,7 @@ F/Tab 键快速全屏 <br>
 
 是因为键盘增量太小了，调整键盘增量。
 
-![image](https://github.com/yushuntai/yushuntai.github.io/assets/61654690/68e673a3-1e0c-485f-9513-b7a134704563)
+<img src="/assets/images/Figure16.png" width="600">
 
 # 在AI中画箭头
 
