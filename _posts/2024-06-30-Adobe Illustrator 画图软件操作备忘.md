@@ -64,7 +64,9 @@ F/Tab 键快速全屏 <br>
 
 
 # 通过吸管改变描边颜色
-![image](https://github.com/user-attachments/assets/880bf4f3-2b6c-4710-b616-fc7ab4a7b328)
+<img src="/assets/images/Figure21.png" width="600">
+
+
 
 **选择目标对象：** 使用选择工具（快捷键 V），点击你想要调整描边颜色的对象，使其处于选中状态。
 **确保描边颜色框在前:** 在左侧工具栏中，找到颜色控制区域，有一个 填充颜色框（实心框）和一个 描边颜色框（空心框）。
