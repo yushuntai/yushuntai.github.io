@@ -105,17 +105,17 @@ F/Tab 键快速全屏
 
 <img src="/assets/images/Figure24.png" width="600">
 
-## 如何导出占空间少的PDF文件
+# 如何导出体积更小且清晰的PDF文件
 
-### 1. 基础保存设置
+## 1. 基础保存设置
 在 AI 中点击 文件 > 存储为 (Save As)，选择格式为 Adobe PDF。在弹出的设置面板中进行以下操作： <br>
 取消勾选“保留 Illustrator 编辑功能”：这是减小体积最有效的方法。勾选它相当于在 PDF 里塞进了一个完整的 AI 源文件。 <br>
 勾选“优化快速 Web 查看”：提高加载速度，对体积略有优化。  <br>
 
 
-### 2. 压缩参数优化（关键）
+## 2. 压缩参数优化（关键）
 
 设置如下图所示
-<img src="/assets/images/Figure31.png" width="666">
+<img src="/assets/images/Figure31.png" width="888">
 
 
