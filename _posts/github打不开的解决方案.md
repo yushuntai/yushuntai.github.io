@@ -1,0 +1,55 @@
+---
+layout: post
+title:  " github打不开的解决方案"
+tags: 实验方法与科研小技巧
+date:   2026-07-20
+categories: Front-end JavaScript
+excerpt: 实验方法与科研小技巧
+toc: true
+---
+
+
+**目录：**
+
+* content
+{:toc}
+
+
+
+
+
+
+有时候github打不开，这是因为访问github官网是直接访问域名即 github.com，那么中间有个域名通过DNS解析的过程，将域名解析为对应的ip地址，其实主要时间都是花在了DNS解析上，导致了github有时候能打开，有时候打不开，有时候访问很慢。
+
+windows打开cmd（长按windows，点击R，输入cmd，点击确定即可打开）；输入下列命令即可得到github的ip地址
+
+
+
+![image-20260720151057891](C:\Users\92956\AppData\Roaming\Typora\typora-user-images\image-20260720151057891.png)
+
+
+
+ctrl+C复制下来，打开电脑的C:\Windows\System32\drivers\etc
+
+找到hosts文件，右键使用记事本打开，在最下面的空行粘贴ip地址，并加上github域名
+
+![image-20260720151346892](C:\Users\92956\AppData\Roaming\Typora\typora-user-images\image-20260720151346892.png)
+
+保存文件，退出，大功告成！
+
+参考：[github打不开的解决方案](https://blog.csdn.net/weixin_43804496/article/details/131475204/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
