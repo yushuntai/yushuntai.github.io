@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " 如何在细胞中敲除一个基因"
+title:  " 如何通过CRISPR-Cas9在细胞中敲除一个基因以及 PE & BE"
 tags: 实验方法与科研小技巧
 date:   2025-04-16
 categories: Front-end JavaScript
