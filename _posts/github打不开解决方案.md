@@ -19,7 +19,7 @@ toc: true
 
 
 
-有时候github打不开，这是因为访问github官网是直接访问域名即 github.com，那么中间有个域名通过DNS解析的过程，将域名解析为对应的ip地址，其实主要时间都是花在了DNS解析上，导致了github有时候能打开，有时候打不开，有时候访问很慢。
+有的时候github打不开，这是因为访问github官网是直接访问域名即 github.com，那么中间有个域名通过DNS解析的过程，将域名解析为对应的ip地址，其实主要时间都是花在了DNS解析上，导致了github有时候能打开，有时候打不开，有时候访问很慢。
 
 windows打开cmd（长按windows，点击R，输入cmd，点击确定即可打开）；输入下列命令即可得到github的ip地址
 
