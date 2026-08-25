@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " 2026-08-25 PPT导出成为带有备注的PDF文件"
+title:  " 2026-08-25 PPT导出成带备注的PDF文件"
 tags: 实验方法与科研小技巧
 date:   2026-08-25
 categories: Front-end JavaScript
