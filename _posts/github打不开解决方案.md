@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " github打不开的解决方案"
+title:  " github打不开解决方案"
 tags: 实验方法与科研小技巧
 date:   2026-07-20
 categories: Front-end JavaScript
